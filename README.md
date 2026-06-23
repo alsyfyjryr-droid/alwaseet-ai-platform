@@ -1,9 +1,8 @@
-
-# ALWASEET AI
+ALWASEET AI
 
 AI Powered Workforce & Marketing Platform
 
-## Features
+Features
 
 - AI Content Generation
 - Trend Analysis
@@ -11,22 +10,3 @@ AI Powered Workforce & Marketing Platform
 - Recruitment System
 - Construction Marketplace
 - Analytics Dashboard
-
-## Tech Stack
-
-Frontend:
-- Next.js
-- TypeScript
-- Tailwind CSS
-
-Backend:
-- FastAPI
-- PostgreSQL
-
-AI:
-- OpenAI
-- Gemini
-
-Infrastructure:
-- Vercel
-- Railway
