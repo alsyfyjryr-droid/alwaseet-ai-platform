@@ -32,3 +32,22 @@ font-size: 18px;
 border-radius: 10px;
 cursor: pointer;
 }
+div {
+background: white;
+color: #0F172A;
+width: 250px;
+margin: 20px auto;
+padding: 20px;
+border-radius: 15px;
+box-shadow: 0 4px 15px rgba(0,0,0,0.2);
+}
+
+div h2 {
+color: #D4AF37;
+margin-bottom: 10px;
+}
+
+div p {
+font-size: 28px;
+font-weight: bold;
+  }
