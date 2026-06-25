@@ -1,3 +1,4 @@
+import "./globals.css";
 export const metadata = {
   title: "ALWASEET AI",
   description: "AI Workforce & Marketing Platform",
